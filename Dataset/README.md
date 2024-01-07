@@ -1,7 +1,7 @@
 # Dataset Structure
 An e-commerce dataset was collected from [Kaggle](https://www.kaggle.com/datasets/ankitverma2010/ecommerce-customer-churn-analysis-and-prediction), it consists of 25 columns and 5631 rows. 
 
-The table below shows the description of each variable
+The table below shows the description of each variable.
 | Variable                   | Description                                            |
 | -------------------------- | ------------------------------------------------------ |
 | CustomerID                | Unique customer ID                                     |
@@ -29,3 +29,10 @@ The table below shows the description of each variable
 | MembershipLevel | Membership level of the customer                  |
 | FreqofWebsiteVisits | Total frequency of website visits by customer in the last month |
 | Occupation         | Occupation of customers                             |
+
+
+## Datasets in the folder
+[E-commerce Dataset.xlsx](https://github.com/weilai0807/WQD7005_AA1/blob/main/Dataset/E%20Commerce%20Dataset.xlsx) - Added some columns into the file
+[E-commerce Dataset.csv](https://github.com/weilai0807/WQD7005_AA1/blob/main/Dataset/E%20Commerce%20Dataset.csv) - csv version of E-commerce Dataset.xlsx
+[AA1_output.v1.csv](https://github.com/weilai0807/WQD7005_AA1/blob/main/Dataset/AA1_output.v1.csv) - Output data after Talend Data Integration
+[AA1_output.v2.xlsx](https://github.com/weilai0807/WQD7005_AA1/blob/main/Dataset/AA1_output.v2.xlsx) - Output data after Talend Data Prep
