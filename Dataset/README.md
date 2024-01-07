@@ -1,5 +1,5 @@
 # Dataset Structure
-An e-commerce dataset was collected from Kaggle, it consists of 25 columns and 5631 rows. The table below shows the description of each variable
+An e-commerce dataset was collected from [Kaggle](https://www.kaggle.com/datasets/ankitverma2010/ecommerce-customer-churn-analysis-and-prediction), it consists of 25 columns and 5631 rows. The table below shows the description of each variable
 
 | Variable                   | Description                                            |
 | -------------------------- | ------------------------------------------------------ |
