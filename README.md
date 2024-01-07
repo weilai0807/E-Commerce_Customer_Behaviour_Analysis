@@ -9,7 +9,7 @@ Conduct a comprehensive e-commerce customer behaviours analysis through a set of
 - Step 4 - Conduct Decision Tree Analysis with SAS Enterprise Miner. [Link](https://github.com/weilai0807/WQD7005_AA1/blob/main/SAS%20Enterprise%20Miner/Decision%20Tree%20Analysis.md)
 - Step 5 - Apply Ensemble Methods with SAS Enterprise Miner. [Link](https://github.com/weilai0807/WQD7005_AA1/blob/main/SAS%20Enterprise%20Miner/Ensemble%20Methods.md)
 
-## Deliverables
+## Reflection and Learning Outcomes
 In this study, 3 robust software, including Talend Data Integration, Talend Data Prep and SAS Enterprise Miners are applied for data import and preprocessing, decision tree analysis and ensemble method.  
 
 In Talend Data Integration, I create an additional date column for the Kaggle dataset. I use tRowGenerator component to create the date column because it allows us to create random date with user friendly interface. As this component is new to me, it took some time for me to understand the way to use it.  
