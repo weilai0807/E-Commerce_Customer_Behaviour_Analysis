@@ -3,7 +3,8 @@ The [E-commerce Dataset.csv](https://github.com/weilai0807/WQD7005_AA1/blob/main
 
 ## Step 1
 ![Updated Image](https://github.com/weilai0807/WQD7005_AA1/blob/main/Talend%20Data%20Integration/tFileInputDelimited_1.png)
-<br>A tFileInputDelimited component was dragged into the designer. I have changed the saved file destination, row separator, field separator and skip empty rows as figure above. After that, click the 3 dots beside edit schema.
+
+A tFileInputDelimited component was dragged into the designer. I have changed the saved file destination, row separator, field separator and skip empty rows as figure above. After that, click the 3 dots beside edit schema.
 2. A window popped out, and I filled up all the variable name and types. This steps to make sure we can import all columns into Talend. 
 
 tRowGenerator	 
