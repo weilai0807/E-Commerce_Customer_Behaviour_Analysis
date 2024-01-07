@@ -1,8 +1,9 @@
-an e-commerce dataset was collected from Kaggle, it consists of 25 columns and 5631 rows. The table below shows the description of each variable
+# Dataset Structure
+An e-commerce dataset was collected from Kaggle, it consists of 25 columns and 5631 rows. The table below shows the description of each variable
 
-Variables	Description
-CustomerID	Unique customer ID
-Churn	Churn Flag: 0 = not churn, 1 = churn
+Variables|Description
+CustomerID|Unique customer ID
+Churn|Churn Flag: 0 = not churn, 1 = churn
 Tenure	Tenure of customer in e-commerce platform
 PreferredLoginDevice	Preferred login device of customer
 CityTier	Tier of city
