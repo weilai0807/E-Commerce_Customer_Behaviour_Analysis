@@ -33,6 +33,9 @@ The table below shows the description of each variable.
 
 ## Datasets in the folder
 [E-commerce Dataset.xlsx](https://github.com/weilai0807/WQD7005_AA1/blob/main/Dataset/E%20Commerce%20Dataset.xlsx) - Added some columns into the file
+
 [E-commerce Dataset.csv](https://github.com/weilai0807/WQD7005_AA1/blob/main/Dataset/E%20Commerce%20Dataset.csv) - csv version of E-commerce Dataset.xlsx
+
 [AA1_output.v1.csv](https://github.com/weilai0807/WQD7005_AA1/blob/main/Dataset/AA1_output.v1.csv) - Output data after Talend Data Integration
+
 [AA1_output.v2.xlsx](https://github.com/weilai0807/WQD7005_AA1/blob/main/Dataset/AA1_output.v2.xlsx) - Output data after Talend Data Prep
