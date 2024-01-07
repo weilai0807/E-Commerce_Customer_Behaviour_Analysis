@@ -3,11 +3,11 @@ In this study, I also apply Gradient Boosting and Random Forest for prediction i
 
 ## Step 1 - Gradient Boosting Node
 ![Updated Image](https://github.com/weilai0807/WQD7005_AA1/blob/main/SAS%20Enterprise%20Miner/GradientBoosting_1.png)  
-A Gradient Boosting node was dragged into the diagram, and I connected the data partition node to it. I leave all the setting by default and connect it to model comparison node.  
+- A Gradient Boosting node was dragged into the diagram, and I connected the data partition node to it. I leave all the setting by default and connect it to model comparison node.  
 
 ## Step 2 - Random Forest Node
 ![Updated Image](https://github.com/weilai0807/WQD7005_AA1/blob/main/SAS%20Enterprise%20Miner/HPForest_1.png)  
-A HP Forest node was dragged into the diagram, and I connected the data partition node to it. I leave all the setting by default and connect it to model comparison node.  
+- A HP Forest node was dragged into the diagram, and I connected the data partition node to it. I leave all the setting by default and connect it to model comparison node.  
 
 # Result Analysis
 ![Updated Image](https://github.com/weilai0807/WQD7005_AA1/blob/main/SAS%20Enterprise%20Miner/EnsembleResult_1.png)  
