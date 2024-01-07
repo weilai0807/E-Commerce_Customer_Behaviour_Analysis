@@ -1,8 +1,9 @@
 # Data Manipulation
-The dataset was imported to Talend Data Integration for data manipulation. A Date column named LastPurchaseDate is added to the dataset as the dataset did not contain any date column. Date column is important as it allows us to analyse the trend over time. Thus, a random date was added to each row by using Talend Data Integration.
+The [E-commerce Dataset.csv](https://github.com/weilai0807/WQD7005_AA1/blob/main/Dataset/E%20Commerce%20Dataset.csv) was imported to Talend Data Integration for data manipulation. A Date column named LastPurchaseDate is added to the dataset as the dataset did not contain any date column. Date column is important as it allows us to analyse the trend over time. Thus, a random date was added to each row by using Talend Data Integration.
 
-tFileInputDelimited_1	 
-1. A tFileInputDelimited component was dragged into the designer. I have changed the saved file destination, row separator, field separator and skip empty rows as figure above. After that, click the 3 dots beside edit schema.
+## Step 1
+![Updated Image](https://github.com/username/repository/blob/main/path/to/new_image.png)
+A tFileInputDelimited component was dragged into the designer. I have changed the saved file destination, row separator, field separator and skip empty rows as figure above. After that, click the 3 dots beside edit schema.
 2. A window popped out, and I filled up all the variable name and types. This steps to make sure we can import all columns into Talend. 
 
 tRowGenerator	 
