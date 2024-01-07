@@ -1,5 +1,5 @@
 # Data Imputation
-The dataset is imported to SAS enterprise Miner for imputation as there are some missing values in dataset.  
+[AA1_output.v2.xlsx](https://github.com/weilai0807/WQD7005_AA1/blob/main/Dataset/AA1_output.v2.xlsx) is imported to SAS enterprise Miner for imputation as there are some missing values in dataset.  
 
 ## Step 1  
 ![Updated Image](https://github.com/weilai0807/WQD7005_AA1/blob/main/SAS%20Enterprise%20Miner/FileImport_1.png)  
