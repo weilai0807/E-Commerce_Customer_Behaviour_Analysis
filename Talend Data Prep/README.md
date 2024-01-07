@@ -1,0 +1,6 @@
+# Data Cleaning
+To clean the noisy and inconsistent data, Talend Data Prep was used. The [AA1_output.v1.csv](https://github.com/weilai0807/WQD7005_AA1/blob/main/Dataset/AA1_output.v1.csv) from Talend Data Integration was imported into Talend Data Prep for data cleaning. 
+1. The CustomerID was detected as postal code data type after I imported the data into Talend Data Prep. Thus, I change it to text data type.
+2. There are 3 categories in PreferredLoginDevice column such as Mobile Phone, Phone and Computer. As Mobile phone and Phone are same category, so I replace the phone with mobile phone.
+3. There are 7 categories in PreferredPaymentMode column such as Debit Card, Credit Card, E-wallet, Cash on Delivery, UPI, CC and COD. As CC is same category with Credit Card and COD is same category with Cash on Delivery, so I replace both CC and COD to Credit Card and Cash on Delivery respectively
+4. There are 6 categories in PreferredOrderCat column such as Mobile Phone, Laptop & Accessory, Fashion, Grocery, Others and Mobile. As Mobile is same category as Mobile Phone, I do the replacement as figure above.
