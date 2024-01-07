@@ -10,6 +10,10 @@ Conduct a comprehensive e-commerce customer behaviours analysis through a set of
 - Step 4 - Conduct Decision Tree Analysis with SAS Enterprise Miner. [Link](https://github.com/weilai0807/WQD7005_AA1/blob/main/SAS%20Enterprise%20Miner/Decision%20Tree%20Analysis.md)
 - Step 5 - Apply Ensemble Methods with SAS Enterprise Miner. [Link](https://github.com/weilai0807/WQD7005_AA1/blob/main/SAS%20Enterprise%20Miner/Ensemble%20Methods.md)
 
+## Result Analysis
+
+
+
 ## Reflection and Learning Outcomes
 In this study, 3 robust software, including Talend Data Integration, Talend Data Prep and SAS Enterprise Miners are applied for data import and preprocessing, decision tree analysis and ensemble method.  
 
