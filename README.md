@@ -24,7 +24,7 @@ Random Forest has lower misclassification rate in both Valid data and Train Data
 
 In overall, the **decision tree – max levels has the lowest valid misclassification rate among other models**. This interpreting that if the decision tree is constructed properly, it can outperform than any other robust model like Random Forest. Apart from that, **the feature importance assigned in Decision Tree and Random Forest may different**, resulting decision tree perform better than random forest.  
 
-## Reflection and Learning Outcomes
+## Reflection or Learning Outcomes
 In this study, 3 robust software, including Talend Data Integration, Talend Data Prep and SAS Enterprise Miners are applied for data import and preprocessing, decision tree analysis and ensemble method.  
 
 In Talend Data Integration, I **create an additional date column** for the Kaggle dataset. I use **tRowGenerator** component to create the date column because it allows us to create random date with user friendly interface. As this component is new to me, it took some time for me to understand the way to use it.  
