@@ -1,4 +1,5 @@
 # WQD7005 Data Mining - Alternative Assessment 1
+## Case Study: E-Commerce Customer Behaviour Analysis
 ## Objective
 Conduct a comprehensive e-commerce customer behaviours analysis through a set of software, including SAS Enterprise Miner, Talend Data Integration, and Talend Data Prep
 
