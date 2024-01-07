@@ -1,4 +1,5 @@
-# Data sdfhsdfhsfdh
+# Data Manipulation
+The dataset was imported to Talend Data Integration for data manipulation. A Date column named LastPurchaseDate is added to the dataset as the dataset did not contain any date column. Date column is important as it allows us to analyse the trend over time. Thus, a random date was added to each row by using Talend Data Integration.
 
 tFileInputDelimited_1	 
 1. A tFileInputDelimited component was dragged into the designer. I have changed the saved file destination, row separator, field separator and skip empty rows as figure above. After that, click the 3 dots beside edit schema.
