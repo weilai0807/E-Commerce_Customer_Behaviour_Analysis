@@ -1,5 +1,5 @@
 # Modeling Steps
-Once the data preprocessing is done, we can proceed to decision tree analysis. The table below shows the steps of decision tree analysis.  
+Once the data preprocessing is done, we can proceed to decision tree analysis. Below shows the steps of decision tree analysis.  
 
 ## Step 1 - Data Partition Node
 ![Updated Image](https://github.com/weilai0807/WQD7005_AA1/blob/main/SAS%20Enterprise%20Miner/DataPartition_1.png)  
